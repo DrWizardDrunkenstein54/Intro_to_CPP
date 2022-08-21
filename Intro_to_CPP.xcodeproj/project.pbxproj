@@ -41,7 +41,7 @@
 		67B0F0D928B0D93A00A82684 = {
 			isa = PBXGroup;
 			children = (
-				67B0F0E428B0D93A00A82684 /* Intro_to_CPP */,
+				67B0F0EC28B0D9C800A82684 /* Chapter 1 */,
 				67B0F0E328B0D93A00A82684 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,14 +52,6 @@
 				67B0F0E228B0D93A00A82684 /* Intro_to_CPP */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		67B0F0E428B0D93A00A82684 /* Intro_to_CPP */ = {
-			isa = PBXGroup;
-			children = (
-				67B0F0EC28B0D9C800A82684 /* Chapter 1 */,
-			);
-			path = Intro_to_CPP;
 			sourceTree = "<group>";
 		};
 		67B0F0EC28B0D9C800A82684 /* Chapter 1 */ = {

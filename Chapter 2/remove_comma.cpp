@@ -1,6 +1,6 @@
 // Brian Da Cruz
 // 9/6/22
-// lab 3, P2.18
+// P2.18
 // This program takes in a number with a single comma in it as input and prints out the number without the comma
 
 

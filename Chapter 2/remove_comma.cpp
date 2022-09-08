@@ -12,6 +12,7 @@ int main()
 
     // Read in number as input
     string number;
+    cout << "Please enter a number: ";
     cin >> number;
 
     // Print out the numbers that show up before the comma and after the comma

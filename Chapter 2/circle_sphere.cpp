@@ -16,6 +16,7 @@ int main()
 
     // Read in radius as input
     double radius;
+    cout << "Please enter in a radius: ";
     cin >> radius;
 
 

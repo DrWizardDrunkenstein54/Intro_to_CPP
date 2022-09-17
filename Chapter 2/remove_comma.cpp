@@ -1,23 +1,23 @@
-// Brian Da Cruz
-// 9/6/22
-// P2.18
-// This program takes in a number with a single comma in it as input and prints out the number without the comma
-
-
-#include <iostream>
-using namespace std;
-
-int main()
-{
-
-    // Read in number as input
-    string number;
-    cout << "Please enter a number: ";
-    cin >> number;
-
-    // Print out the numbers that show up before the comma and after the comma
-    cout << number.substr(0, number.length() - 4) << number.substr(number.length() - 3) << endl;
-
-
-    return 0;
-}
+//// Brian Da Cruz
+//// 9/6/22
+//// P2.18
+//// This program takes in a number with a single comma in it as input and prints out the number without the comma
+//
+//
+//#include <iostream>
+//using namespace std;
+//
+//int main()
+//{
+//
+//    // Read in number as input
+//    string number;
+//    cout << "Please enter a number: ";
+//    cin >> number;
+//
+//    // Print out the numbers that show up before the comma and after the comma
+//    cout << number.substr(0, number.length() - 4) << number.substr(number.length() - 3) << endl;
+//
+//
+//    return 0;
+//}

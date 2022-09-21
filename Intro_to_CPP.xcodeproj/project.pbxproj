@@ -13,6 +13,7 @@
 		67B0F0F128B1ED5200A82684 /* hello.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B0F0F028B1ED5200A82684 /* hello.cpp */; };
 		67B0F0F428BFC53B00A82684 /* circle_sphere.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B0F0F328BFC53B00A82684 /* circle_sphere.cpp */; };
 		67B0F0F628BFC6BF00A82684 /* remove_comma.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B0F0F528BFC6BF00A82684 /* remove_comma.cpp */; };
+		67CDD98528DA28CF0095BEE5 /* if_worksheet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67CDD98428DA28CF0095BEE5 /* if_worksheet.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		67B0F0F028B1ED5200A82684 /* hello.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hello.cpp; sourceTree = "<group>"; };
 		67B0F0F328BFC53B00A82684 /* circle_sphere.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = circle_sphere.cpp; sourceTree = "<group>"; };
 		67B0F0F528BFC6BF00A82684 /* remove_comma.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = remove_comma.cpp; sourceTree = "<group>"; };
+		67CDD98428DA28CF0095BEE5 /* if_worksheet.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = if_worksheet.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				670BE58F28D38C13007DDCB6 /* all_the_same.cpp */,
 				670BE59128D38CE0007DDCB6 /* letter_grade.cpp */,
+				67CDD98428DA28CF0095BEE5 /* if_worksheet.cpp */,
 			);
 			path = "Chapter 3";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				670BE59028D38C13007DDCB6 /* all_the_same.cpp in Sources */,
+				67CDD98528DA28CF0095BEE5 /* if_worksheet.cpp in Sources */,
 				67B0F0F428BFC53B00A82684 /* circle_sphere.cpp in Sources */,
 				67B0F0F128B1ED5200A82684 /* hello.cpp in Sources */,
 				67B0F0EF28B0DA0600A82684 /* chapter1_programming_assignment.cpp in Sources */,

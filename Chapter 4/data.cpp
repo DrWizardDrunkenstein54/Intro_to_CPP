@@ -22,7 +22,7 @@
 //        float num;
 //        cin >> num;
 //
-//        
+//
 //        // If it is the first iteration, min and max are initially set to num since there is no other number present so far
 //        if (i == 0)
 //        {

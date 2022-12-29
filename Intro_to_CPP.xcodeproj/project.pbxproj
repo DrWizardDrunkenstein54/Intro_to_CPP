@@ -9,14 +9,27 @@
 /* Begin PBXBuildFile section */
 		670BE59028D38C13007DDCB6 /* all_the_same.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 670BE58F28D38C13007DDCB6 /* all_the_same.cpp */; };
 		670BE59228D38CE0007DDCB6 /* letter_grade.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 670BE59128D38CE0007DDCB6 /* letter_grade.cpp */; };
+		672A541C293DF9480042CFE6 /* meet_in_the_middle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672A541B293DF9480042CFE6 /* meet_in_the_middle.cpp */; };
+		672A541E293E63E50042CFE6 /* lab.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672A541D293E63E50042CFE6 /* lab.cpp */; };
+		672A5420293E6A650042CFE6 /* linked_list_lab.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672A541F293E6A650042CFE6 /* linked_list_lab.cpp */; };
+		672A54252945B7E20042CFE6 /* project_euler_test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672A54242945B7E20042CFE6 /* project_euler_test.cpp */; };
+		672A54272945B8FA0042CFE6 /* prime_sum_numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672A54262945B8FA0042CFE6 /* prime_sum_numbers.cpp */; };
+		672A54292946F4650042CFE6 /* consecutive_prime_sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672A54282946F4650042CFE6 /* consecutive_prime_sum.cpp */; };
+		672D730B28FF0DF700665BD7 /* bank.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672D730A28FF0DF700665BD7 /* bank.cpp */; };
+		672D730D28FF11FC00665BD7 /* digits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 672D730C28FF11FC00665BD7 /* digits.cpp */; };
+		6740A455291031AD00859BD2 /* chapter6labp1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6740A454291031AD00859BD2 /* chapter6labp1.cpp */; };
+		6740A457291031BA00859BD2 /* chapter6labp2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6740A456291031BA00859BD2 /* chapter6labp2.cpp */; };
+		67863FC429240DBE00981F5B /* chapter7labp1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67863FC329240DBE00981F5B /* chapter7labp1.cpp */; };
 		67B0F0EF28B0DA0600A82684 /* chapter1_programming_assignment.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B0F0ED28B0DA0600A82684 /* chapter1_programming_assignment.cpp */; };
 		67B0F0F128B1ED5200A82684 /* hello.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B0F0F028B1ED5200A82684 /* hello.cpp */; };
 		67B0F0F428BFC53B00A82684 /* circle_sphere.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B0F0F328BFC53B00A82684 /* circle_sphere.cpp */; };
 		67B0F0F628BFC6BF00A82684 /* remove_comma.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B0F0F528BFC6BF00A82684 /* remove_comma.cpp */; };
+		67C533902925451700BBC792 /* projectp1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67C5338F2925451700BBC792 /* projectp1.cpp */; };
 		67CDD98528DA28CF0095BEE5 /* if_worksheet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67CDD98428DA28CF0095BEE5 /* if_worksheet.cpp */; };
 		67CDD98728E211560095BEE5 /* temp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67CDD98628E211560095BEE5 /* temp.cpp */; };
 		67CDD98A28E216840095BEE5 /* harry.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67CDD98928E216840095BEE5 /* harry.cpp */; };
 		67CDD98C28E288DC0095BEE5 /* data.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67CDD98B28E288DC0095BEE5 /* data.cpp */; };
+		67F9B5762934BBBB0077775C /* projectp2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67F9B5752934BBBB0077775C /* projectp2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,15 +47,28 @@
 /* Begin PBXFileReference section */
 		670BE58F28D38C13007DDCB6 /* all_the_same.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = all_the_same.cpp; sourceTree = "<group>"; };
 		670BE59128D38CE0007DDCB6 /* letter_grade.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = letter_grade.cpp; sourceTree = "<group>"; };
+		672A541B293DF9480042CFE6 /* meet_in_the_middle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = meet_in_the_middle.cpp; sourceTree = "<group>"; };
+		672A541D293E63E50042CFE6 /* lab.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = lab.cpp; sourceTree = "<group>"; };
+		672A541F293E6A650042CFE6 /* linked_list_lab.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = linked_list_lab.cpp; sourceTree = "<group>"; };
+		672A54242945B7E20042CFE6 /* project_euler_test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = project_euler_test.cpp; sourceTree = "<group>"; };
+		672A54262945B8FA0042CFE6 /* prime_sum_numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = prime_sum_numbers.cpp; sourceTree = "<group>"; };
+		672A54282946F4650042CFE6 /* consecutive_prime_sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = consecutive_prime_sum.cpp; sourceTree = "<group>"; };
+		672D730A28FF0DF700665BD7 /* bank.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bank.cpp; sourceTree = "<group>"; };
+		672D730C28FF11FC00665BD7 /* digits.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = digits.cpp; sourceTree = "<group>"; };
+		6740A454291031AD00859BD2 /* chapter6labp1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = chapter6labp1.cpp; sourceTree = "<group>"; };
+		6740A456291031BA00859BD2 /* chapter6labp2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = chapter6labp2.cpp; sourceTree = "<group>"; };
+		67863FC329240DBE00981F5B /* chapter7labp1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = chapter7labp1.cpp; sourceTree = "<group>"; };
 		67B0F0E228B0D93A00A82684 /* Intro_to_CPP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Intro_to_CPP; sourceTree = BUILT_PRODUCTS_DIR; };
 		67B0F0ED28B0DA0600A82684 /* chapter1_programming_assignment.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = chapter1_programming_assignment.cpp; sourceTree = "<group>"; };
 		67B0F0F028B1ED5200A82684 /* hello.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hello.cpp; sourceTree = "<group>"; };
 		67B0F0F328BFC53B00A82684 /* circle_sphere.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = circle_sphere.cpp; sourceTree = "<group>"; };
 		67B0F0F528BFC6BF00A82684 /* remove_comma.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = remove_comma.cpp; sourceTree = "<group>"; };
+		67C5338F2925451700BBC792 /* projectp1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = projectp1.cpp; sourceTree = "<group>"; };
 		67CDD98428DA28CF0095BEE5 /* if_worksheet.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = if_worksheet.cpp; sourceTree = "<group>"; };
 		67CDD98628E211560095BEE5 /* temp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = temp.cpp; sourceTree = "<group>"; };
 		67CDD98928E216840095BEE5 /* harry.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = harry.cpp; sourceTree = "<group>"; };
 		67CDD98B28E288DC0095BEE5 /* data.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = data.cpp; sourceTree = "<group>"; };
+		67F9B5752934BBBB0077775C /* projectp2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = projectp2.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,9 +92,54 @@
 			path = "Chapter 3";
 			sourceTree = "<group>";
 		};
+		672A54232945B7AF0042CFE6 /* Semester Project */ = {
+			isa = PBXGroup;
+			children = (
+				672A541B293DF9480042CFE6 /* meet_in_the_middle.cpp */,
+				67F9B5752934BBBB0077775C /* projectp2.cpp */,
+				67C5338F2925451700BBC792 /* projectp1.cpp */,
+				672A54242945B7E20042CFE6 /* project_euler_test.cpp */,
+				672A54262945B8FA0042CFE6 /* prime_sum_numbers.cpp */,
+				672A54282946F4650042CFE6 /* consecutive_prime_sum.cpp */,
+			);
+			path = "Semester Project";
+			sourceTree = "<group>";
+		};
+		672D730928FF0D5100665BD7 /* Chapter 5 */ = {
+			isa = PBXGroup;
+			children = (
+				672D730A28FF0DF700665BD7 /* bank.cpp */,
+				672D730C28FF11FC00665BD7 /* digits.cpp */,
+			);
+			path = "Chapter 5";
+			sourceTree = "<group>";
+		};
+		6740A4532910318100859BD2 /* Chapter 6 */ = {
+			isa = PBXGroup;
+			children = (
+				6740A454291031AD00859BD2 /* chapter6labp1.cpp */,
+				6740A456291031BA00859BD2 /* chapter6labp2.cpp */,
+			);
+			path = "Chapter 6";
+			sourceTree = "<group>";
+		};
+		67863FC229240DAD00981F5B /* Chapter 7 */ = {
+			isa = PBXGroup;
+			children = (
+				67863FC329240DBE00981F5B /* chapter7labp1.cpp */,
+				672A541D293E63E50042CFE6 /* lab.cpp */,
+				672A541F293E6A650042CFE6 /* linked_list_lab.cpp */,
+			);
+			path = "Chapter 7";
+			sourceTree = "<group>";
+		};
 		67B0F0D928B0D93A00A82684 = {
 			isa = PBXGroup;
 			children = (
+				672A54232945B7AF0042CFE6 /* Semester Project */,
+				67863FC229240DAD00981F5B /* Chapter 7 */,
+				6740A4532910318100859BD2 /* Chapter 6 */,
+				672D730928FF0D5100665BD7 /* Chapter 5 */,
 				67CDD98828E213CD0095BEE5 /* Chapter 4 */,
 				670BE58E28D38B8B007DDCB6 /* Chapter 3 */,
 				67B0F0F228BFC51500A82684 /* Chapter 2 */,
@@ -171,15 +242,28 @@
 			buildActionMask = 2147483647;
 			files = (
 				670BE59028D38C13007DDCB6 /* all_the_same.cpp in Sources */,
+				67F9B5762934BBBB0077775C /* projectp2.cpp in Sources */,
 				67CDD98528DA28CF0095BEE5 /* if_worksheet.cpp in Sources */,
+				672A54292946F4650042CFE6 /* consecutive_prime_sum.cpp in Sources */,
+				672A541C293DF9480042CFE6 /* meet_in_the_middle.cpp in Sources */,
+				67C533902925451700BBC792 /* projectp1.cpp in Sources */,
+				672D730B28FF0DF700665BD7 /* bank.cpp in Sources */,
+				6740A455291031AD00859BD2 /* chapter6labp1.cpp in Sources */,
 				67B0F0F428BFC53B00A82684 /* circle_sphere.cpp in Sources */,
 				67CDD98C28E288DC0095BEE5 /* data.cpp in Sources */,
+				67863FC429240DBE00981F5B /* chapter7labp1.cpp in Sources */,
 				67B0F0F128B1ED5200A82684 /* hello.cpp in Sources */,
+				672A541E293E63E50042CFE6 /* lab.cpp in Sources */,
 				67B0F0EF28B0DA0600A82684 /* chapter1_programming_assignment.cpp in Sources */,
+				6740A457291031BA00859BD2 /* chapter6labp2.cpp in Sources */,
+				672A5420293E6A650042CFE6 /* linked_list_lab.cpp in Sources */,
 				67B0F0F628BFC6BF00A82684 /* remove_comma.cpp in Sources */,
 				670BE59228D38CE0007DDCB6 /* letter_grade.cpp in Sources */,
 				67CDD98728E211560095BEE5 /* temp.cpp in Sources */,
+				672A54272945B8FA0042CFE6 /* prime_sum_numbers.cpp in Sources */,
 				67CDD98A28E216840095BEE5 /* harry.cpp in Sources */,
+				672D730D28FF11FC00665BD7 /* digits.cpp in Sources */,
+				672A54252945B7E20042CFE6 /* project_euler_test.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
